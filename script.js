@@ -20,7 +20,7 @@ function openPopup(tipo) {
     document.getElementById('overlay').style.display = 'block';
 }
 const atividades = [
-    "Exemplo.html",
+    "Atividades/01/index.html",
 ]
 const projetos = [
     "Exemplo.html",
