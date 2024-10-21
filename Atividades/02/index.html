@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <style>
+        .box{
+            position: relative;
+            left: 10px;
+            top: 10px;
+            width: 100px;
+            height: 100px;
+            background: red;
+        }
+        .box:hover{
+            border: solid 10px black;
+            transition: border 2s 1s;
+            animation: minhaAnimacao ;
+        }
+        @keyframes minhaAnimacao {
+            from {
+                left: 10px;
+            }
+            to{
+                left: 100px;
+                background: green;
+                border-radius: 100px;
+            }
+        }
+        
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 2</title>
+</head>
+<body>
+    <div class="box">
+        
+    </div>
+</body>
+</html>
