@@ -21,6 +21,7 @@ function openPopup(tipo) {
 }
 const atividades = [
     "Atividades/01/index.html",
+    "Atividades/02/index.html",
 ]
 const projetos = [
     "Exemplo.html",
