@@ -29,24 +29,24 @@ const atividades = [
 const projetos = [
     "Exemplo.html",
 ]
-const trabalhos = [
+const desafios = [
     "Exemplo.html",
 ]
 function contentPopup(tipo) {
-    if (tipo == "Atividades") {
+    if (tipo == "Atividade") {
         const elementos = contPopupMaker(atividades, tipo)
         elementos.forEach(element => {
             document.getElementById('popup').appendChild(element)
         });
     }
-    else if (tipo == "Projetos") {
+    else if (tipo == "Projeto") {
         const elementos = contPopupMaker(projetos, tipo)
         elementos.forEach(element => {
             document.getElementById('popup').appendChild(element)
         });
     }
-    else if (tipo == "Trabalhos") {
-        const elementos = contPopupMaker(trabalhos, tipo)
+    else if (tipo == "Desafio") {
+        const elementos = contPopupMaker(desafios, tipo)
         elementos.forEach(element => {
             document.getElementById('popup').appendChild(element)
         });
