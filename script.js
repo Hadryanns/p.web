@@ -30,7 +30,7 @@ const projetos = [
     "Exemplo.html",
 ]
 const desafios = [
-    "Exemplo.html",
+    "Desafios/01/index.html",
 ]
 function contentPopup(tipo) {
     if (tipo == "Atividade") {

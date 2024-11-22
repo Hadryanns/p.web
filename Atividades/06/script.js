@@ -1,5 +1,5 @@
 function raizQuadrada(numero){
-    raiz = Math.sqrt(numero)
+    const raiz = Math.sqrt(numero)
     alert("A raíz de "+numero+" é igual a "+ raiz)
 }
 
