@@ -25,6 +25,8 @@ const atividades = [
     "Atividades/03/index.html",
     "Atividades/04/index.html",
     "Atividades/05/index.html",
+    "Atividades/06/index.html",
+    "Atividades/07/index.html",
 ]
 const projetos = [
     "Exemplo.html",
