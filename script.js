@@ -28,6 +28,7 @@ const atividades = [
     "Atividades/06/index.html",
     "Atividades/07/index.html",
     "Atividades/08/index.html",
+    "Atividades/09/teste1.py",
 ]
 const projetos = [
     "Exemplo.html",
