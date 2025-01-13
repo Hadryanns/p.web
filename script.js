@@ -30,6 +30,7 @@ const atividades = [
     "Atividades/08/index.html",
     "Atividades/09/teste1.py",
     "Atividades/10/Atividade 10.PNG",
+    "Atividades/11/views.py",
 ]
 const projetos = [
     "Exemplo.html",
