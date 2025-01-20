@@ -31,7 +31,8 @@ const atividades = [
     "Atividades/09/teste1.py",
     "Atividades/10/Atividade 10.PNG",
     "Atividades/11/views.py",
-    "Atividades/12/index.html"
+    "Atividades/12/index.html",
+    "Atividades/13/index.html",
 ]
 const projetos = [
     "Exemplo.html",
